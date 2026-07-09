@@ -2,7 +2,7 @@
 
 Frontend-focused full stack developer, currently studying **AI & Data Science** at Graphic Era Hill University (CGPA 8.7/10). I like building things where the UI is genuinely pleasant to use *and* the backend behind it actually holds up.
 
-📍 India&nbsp;&nbsp;|&nbsp;&nbsp;🎓 B.C.A, 2024–2027&nbsp;&nbsp;|&nbsp;&nbsp;📫 [prer.na8559@gmail.com](mailto:prer.na8559@gmail.com)&nbsp;&nbsp;|&nbsp;&nbsp;🔗 [LinkedIn](www.linkedin.com/in/prerana-anand-4a0762321)
+📍 India&nbsp;&nbsp;|&nbsp;&nbsp;🎓 B.C.A, 2024–2027&nbsp;&nbsp;|&nbsp;&nbsp;📫 [prer.na8559@gmail.com](mailto:prer.na8559@gmail.com)&nbsp;&nbsp;|&nbsp;&nbsp;🔗 [LinkedIn](www.linkedin.com/in/prerana-anand-4a0762321/)
 
 <br>
 
